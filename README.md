@@ -1,2 +1,2 @@
 # Inventory_System
-Invemtory system with html frontend and SQL backend
+Inventory system with html frontend and SQL backend
